@@ -6,15 +6,11 @@ I am a MERN stack developer !
 
 Welcome to my GitHub profile! I'm a passionate and dedicated MERN Stack Developer with a love for creating dynamic and efficient web applications. My journey in web development has been an exciting adventure, and I'm always eager to learn and explore new technologies.
 
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [MyPortfolio](http://rashmi028.github.io/My-Portfolio/)
-* ✉️  You can contact me at [vermarashmi028@gmail.com](mailto:vermarashmi028@gmail.com)
-* 🚀  I'm currently working on [Backend](http://back)
-* 🧠  I'm learning Cloud
+* 🚀  I'm currently working on Backend
+* 🧠  I'm learning Cloud Computing
 * 🤝  I'm open to collaborating on Projects
-
-<a href="https://www.github.com/Rashmi028" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Rashmi028?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+* ✉️  You can contact me at [vermarashmi028@gmail.com](mailto:vermarashmi028@gmail.com)
+ 
 
 ### Skills
 
